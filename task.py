@@ -21,13 +21,11 @@
 #####################################################################################################
 
 #*Task-1
-# i=1
-# myList=[]
-# while i<6:
-#     myList.append(int(input(f"{i}. ededi daxil edin...")))
-#     i+=1
-# myList.sort()
-# print(myList)
+my_list=[]
+for i in range(1,6):
+    my_list.append(int(input(f"{i}. ededi daxil edin...")))
+my_list.sort()
+print(f"siralanmis list:{my_list}" )
 
 #*Task-2
 # cumle=input("cumle daxil edin:").strip()
