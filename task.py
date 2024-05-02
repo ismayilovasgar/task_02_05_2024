@@ -7,8 +7,9 @@
 #  çevirib nəticəni çap edin. Misal üçün ."sabahin xeyir". 
 #  Bu şəkildə olacaq  : "abhins exiry".Hər bir sözdəki hərflər alfabetik sırasına görə düzüldü. 
 
-#* 3.)Tutaq k, n=13. istifadəçi bu n ededini inputda  daxil edənə qədər input alın ve 13 daxil etdikdə desin ki, məsələn 5 cəhdə tapdız, yəni, neçə cəhdə 
-# tapdığını print etsin. while istifade edin . Aşağıdakı inputlarlardakı dəyərlər sadəcə nümunədir. 
+#* 3.)Tutaq ki, n=13. istifadəçi bu n ededini inputda  daxil edənə qədər input alın ve 13 daxil etdikdə 
+# desin ki, məsələn 5 cəhdə tapdız, yəni, neçə cəhdə tapdığını print etsin. while istifade edin . 
+# Aşağıdakı inputlarlardakı dəyərlər sadəcə nümunədir. 
 # ilk input== 4   
 # ikinci input == 7
 # ucuncu input == 2
@@ -16,6 +17,8 @@
 # tebrikler . 4 cehdde 13 reqemeni tapdiz
 
 #* 4). 1 ile 100 arasinda sade ededleri print edin. (for loops)
+
+#####################################################################################################
 
 #*Task-1
 # i=1
