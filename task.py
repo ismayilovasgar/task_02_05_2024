@@ -25,7 +25,7 @@
 # for i in range(1,6):
 #     my_list.append(int(input(f"{i}. ededi daxil edin...")))
 # my_list.sort()
-# print(f"siralanmis list:{my_list}" )
+# print(f"siralanmis list:{my_list}")
 
 
 #*Task-2
@@ -63,7 +63,7 @@
 #         if i % j == 0:
 #             count+=1
         
-#     if count ==2:
+#     if count == 2:
 #         sade_ededler.append(i)
 #         print(i)
 
