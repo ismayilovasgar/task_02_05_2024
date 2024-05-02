@@ -21,11 +21,12 @@
 #####################################################################################################
 
 #*Task-1
-my_list=[]
-for i in range(1,6):
-    my_list.append(int(input(f"{i}. ededi daxil edin...")))
-my_list.sort()
-print(f"siralanmis list:{my_list}" )
+# my_list=[]
+# for i in range(1,6):
+#     my_list.append(int(input(f"{i}. ededi daxil edin...")))
+# my_list.sort()
+# print(f"siralanmis list:{my_list}" )
+
 
 #*Task-2
 # cumle=input("cumle daxil edin:").strip()
